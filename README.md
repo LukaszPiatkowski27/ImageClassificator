@@ -11,7 +11,7 @@ This repo contains example data for training and testing (3 classes) as well as 
 In order to omit training of already trained network you should just comment out the training section from main.py file <br>
 and make sure, that network-loading code is not commented out.
 
-If you want to perform a single test on an image, you should pass its path as an argument:
+If you want to perform a single test on an image, you should pass its path as an argument:<br>
 `python3 main.py path_to_the_file`
 
 ---------------
