@@ -1,4 +1,4 @@
-# ImageClassificator
+# ImageClassifier
 
 Simple feed forward neural network based classificator for black-white bitmaps of size 64 x 64 px and 24 bit color depth.
 
